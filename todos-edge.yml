@@ -1,5 +1,5 @@
 todos:
   api:
-    endpoint: https://todos-webflux.apps.retro.io
+    endpoint: https://todos-webclient.apps.retro.io
   ui:
     endpoint: https://todos-webui.apps.retro.io
