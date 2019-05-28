@@ -1,5 +1,5 @@
 todos:
   api:
-    endpoint: https://todos-api.apps.retro.io
+    endpoint: https://scs-todos-api.cfapps.io
   ui:
-    endpoint: https://todos-webui.apps.retro.io
+    endpoint: https://scs-todos-webui.cfapps.io
