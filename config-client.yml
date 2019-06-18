@@ -3,4 +3,4 @@ spring:
     name: config-client
 config:
   client:
-    message: {cipher}c27feff4f23c68dce8bfef3c7df3ccda7480c5816b5a81853e332c60ffc15ce7
+    message: '{cipher}c27feff4f23c68dce8bfef3c7df3ccda7480c5816b5a81853e332c60ffc15ce7'
