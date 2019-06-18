@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: todos-kotlin
+  security:
+    user:
+      name: nacholibre
+      password: eaglepowers
+todos:
+  api:
+    limit: 1024
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+
