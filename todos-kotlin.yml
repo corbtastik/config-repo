@@ -4,7 +4,7 @@ spring:
   security:
     user:
       name: '{cipher}371487dc844b21a2bb032909ce19da2a238ee4c2ca02d537cf7ba12ba5113282'
-      password: eaglepowers
+      password: '{cipher}1a64f1dd0fd310bfb35820419e13b79df8ebfa37b0766bf75909c1c6bc30a8bc'
 todos:
   api:
     limit: 1024
