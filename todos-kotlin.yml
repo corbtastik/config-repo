@@ -3,7 +3,7 @@ spring:
     name: todos-kotlin
   security:
     user:
-      name: '{cipher}f3309fb8341c1146766e7488874a45dc93a495627e3d1b5d6923816d4ee9d73b85649286d3e3a71ff06c5af9c7498085'
+      name: '{cipher}371487dc844b21a2bb032909ce19da2a238ee4c2ca02d537cf7ba12ba5113282'
       password: eaglepowers
 todos:
   api:
