@@ -3,4 +3,4 @@ spring:
     name: config-client
 config:
   client:
-    message: Howdy Amigo!
+    message: {cipher}bd88cf13dfa8718155e3c8908b3f5f429ad18756cddead2a440376a04ad6b63a
