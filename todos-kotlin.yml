@@ -7,7 +7,7 @@ spring:
       password: '{cipher}1a64f1dd0fd310bfb35820419e13b79df8ebfa37b0766bf75909c1c6bc30a8bc'
 todos:
   api:
-    limit: 2048
+    limit: 4096
 management:
   endpoints:
     web:
