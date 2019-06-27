@@ -1,0 +1,5 @@
+todos:
+  api:
+    endpoint: https://howdy-todos-api.apps.retro.io
+  ui:
+    endpoint: https://howdy-todos-webui.apps.retro.io
