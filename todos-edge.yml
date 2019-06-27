@@ -1,5 +1,5 @@
 todos:
   api:
-    endpoint: http://scsintern-todos-api.apps.internal:8080
+    endpoint: http://scs-todos-api.apps.retro.io
   ui:
-    endpoint: http://scsintern-todos-webui.apps.internal:8080
+    endpoint: http://scs-todos-webui.apps.retro.io
