@@ -1,0 +1,5 @@
+todos:
+  api:
+    endpoint: https://scs-todos-api.apps.retro.io
+  ui:
+    endpoint: https://scs-todos-webui.apps.retro.io
