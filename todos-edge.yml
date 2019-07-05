@@ -1,5 +1,0 @@
-todos:
-  api:
-    endpoint: https://todos-api.apps.retro.io
-  ui:
-    endpoint: https://todos-webui.apps.retro.io
