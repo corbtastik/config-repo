@@ -2,4 +2,4 @@ todos:
   api:
     serviceId: TODOS-API
   ui:
-    serviceId: TODOS-WEBUI
+    serviceId: TODOS-MYSQL
