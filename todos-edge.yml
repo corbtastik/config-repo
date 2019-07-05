@@ -1,5 +1,5 @@
 todos:
   api:
-    serviceId: TODOS-AP
+    serviceId: TODOS-API
   ui:
     serviceId: TODOS-WEBUI
