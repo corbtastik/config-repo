@@ -1,5 +1,5 @@
 todos:
   api:
-    serviceId: TODOS-API
+    serviceId: TODOS-MYSQL
   ui:
     serviceId: TODOS-WEBUI
