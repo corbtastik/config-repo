@@ -1,0 +1,5 @@
+todos:
+  api:
+    endpoint: https://cloudy-todos-api.apps.retro.io
+  ui:
+    endpoint: https://cloudy-todos-webui.apps.retro.io
