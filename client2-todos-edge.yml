@@ -1,5 +1,5 @@
 todos:
   api:
-    endpoint: https://todos-mysql.apps.retro.io
+    endpoint: https://todos-redis.apps.retro.io
   ui:
     endpoint: https://client2-todos-webui.apps.retro.io
