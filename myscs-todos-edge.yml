@@ -1,0 +1,5 @@
+todos:
+  api:
+    endpoint: https://myscs-todos-mysql.apps.retro.io
+  ui:
+    endpoint: https://myscs-todos-webui.apps.retro.io
