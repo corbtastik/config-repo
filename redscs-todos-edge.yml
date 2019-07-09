@@ -1,0 +1,5 @@
+todos:
+  api:
+    endpoint: https://redscs-todos-redis.apps.retro.io
+  ui:
+    endpoint: https://redscs-todos-webui.apps.retro.io
