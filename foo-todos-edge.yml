@@ -1,1 +1,5 @@
-# foo
+todos:
+  api:
+    endpoint: https://foo-todos-app.apps.retro.io
+  ui:
+    endpoint: https://foo-todos-webui.apps.retro.io
