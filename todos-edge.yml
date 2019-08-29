@@ -1,5 +1,5 @@
 todos:
   api:
-    service: TODOS-REDIS
+    service: TODOS-APP
   ui:
     service: TODOS-WEBUI
